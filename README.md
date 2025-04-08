@@ -1,0 +1,2 @@
+# Accordions
+Javascript mini project
